@@ -1,0 +1,7 @@
+ALGORITHM:
+Step 1: Start
+Step 2: Read the value of i 
+Step 3: [Initialize] a=1, b=1, c Step 4: do
+c= a+b, a=b, b=c print c. while(i<=10)
+Step 5: Goto step 4
+Step 6: Stop

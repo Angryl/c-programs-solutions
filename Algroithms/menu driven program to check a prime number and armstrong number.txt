@@ -1,0 +1,50 @@
+Step 1: create variables x 
+Step 2: Read x .
+Step 3: 1.prime number
+	2.amstrong number 3.exit
+Step 4: read choice 
+Step 5.1: 
+
+if(choice==1)
+Read a
+b=b1=a
+ 
+while(a!=0){
+a=a/10
+count++
+}
+C=count ;
+While(b!=0){
+ n=b%10 p=n while(count>1)
+{ n=n*p; count-
+-;
+}
+sum=sum+ n b=b/10; count=c; }
+If(b1==sum){
+Print (number is amstrong)
+}
+Else{
+Print (number is not amstrong)
+}
+
+Step 5.2: 
+
+if(choice==2)
+Read x For loop
+{ If(x%i==0)
+{
+Count++
+}
+}
+If(count==1){
+Print (number is prime)
+}
+Else{
+Print (number is not prime)
+} 
+
+Step 5.3: 
+if(choice==3)
+  exit 
+Step 6: stop
+ 

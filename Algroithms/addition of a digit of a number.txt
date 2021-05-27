@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Read the number.
+Step 3: Get the modulus of the number. 
+Step 4: Divide the number by 10.
+Step 5: Sum the remainder of the number.
+Step 6: Repeat the step 3 while the number is greater than 0.

@@ -1,0 +1,7 @@
+Implement following function based upon string .
+1.	T o calculate th  e length of th  e string
+2.	to get rev erse of one string.
+3.	to copy of one string into anoth er
+4.	to compare one string with anoth er to k now are b oth  same or not
+5.	to concatenate two strings
+6.	to ch eck giv en string is palindrome or not

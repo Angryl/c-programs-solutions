@@ -1,0 +1,29 @@
+Step 1: Start
+Step 2: read a & b. 
+Step 3: 
+1.	 Addition
+2.	Subtraction
+3.	Division
+4.	Multiplication
+5.	exit
+
+Step 4: enter you choice 
+
+Step 5.1: 
+
+if(choice ==1)
+	Return a+b ; 
+
+Step 5.2: 
+if(choice ==2)
+	Return a-b ;
+
+Step 5.3: 
+if(choice == 3)
+	Return a/b ; 
+Step 5.4:
+if(choice == 4)
+	Return a*b ; 
+Step 5.5: 
+if(choice == 5)
+	Exit

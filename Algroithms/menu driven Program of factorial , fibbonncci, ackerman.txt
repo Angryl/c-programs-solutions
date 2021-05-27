@@ -1,0 +1,45 @@
+1.	START.
+2.	CREATE FUNCTION OF FACTORIAL() , FIBONAACI() , ACKERMAN().
+3.	INPUT 2 VALUES FOR OPERATION.
+4.	GIVE OPTION MENU FOR THE OPERATION.
+1.	FACT().
+2.	FIBN().
+3.	ACKERMAN().
+5.	SCAN THE VALUE TO OPT OPTION.
+6.	USE SWITCH TO CALL AND GET THE RESULT FROM OPTED FUNCTION.
+7.	USE ANOTHER VALUE TO CONTINUE THE PROGRAM.
+8.	CREATE FUNCTION OF FIBONACCI 
+int fact(int number1)
+{
+int result=0;
+ if(number1==0)
+ return 1;
+else
+result = number1*fact(number1-1);
+return result;
+}
+
+9.	CREATE FUNCTION OF FACTORIAL 
+int fibn(int number1)
+{
+int result=0; 
+if(number1<=2)
+ return 1;
+else
+{
+result = fibn(number1-1)+fibn(number1-2);
+ return result;
+}
+}
+10.	CREATE FUNCTION OF ACKERMAN
+int ackerman (int number1,int number2)
+{
+if(number1==0)
+return (number2+1);
+else
+if(number2==0)
+return ackerman(number1-1,1);
+ else
+return ackerman(number1-1,ackerman(number1,number2-1));
+}
+11.	END.

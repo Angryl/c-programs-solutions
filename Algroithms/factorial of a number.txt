@@ -1,0 +1,8 @@
+Algorithm:
+
+Step 1: Start
+Step 2: Read the Number num 
+Step 3: [Initialize] i=1,fact=1.
+Step 4: Repeat step 4 through 6 until i=n.
+Step 5: fact=fact*i.
+Step 6: i=i+1. Step 7: Print fact. Step 8: Stop

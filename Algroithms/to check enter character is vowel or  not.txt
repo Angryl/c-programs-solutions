@@ -1,0 +1,5 @@
+Algorithm
+1.	We first declare a variable ch of character datatype.
+2.	Then we read one character from the user and store it in a variable "ch"
+3.	Then we compare "ch" with the vowels in both upper and lower case. If it matches we print "vowel" else we print "Consonant"
+

@@ -1,0 +1,37 @@
+//to concatenate two strings 
+
+Step 1: read the string s
+
+Step 2: calculate string leng th in l
+
+Step 3: 
+
+while(s3[i]! =' \ 0' ){
+
+s[l+i]=s3[i]; i++;
+}
+
+s[l+i]=' \ 0' 
+
+Step 4 : print strings.
+
+//*********************************************
+//to check given string is palindrome or not 
+//*********************************************
+
+Step 1: enter the strings.
+
+Step 2: calculate string   leng th in l 
+
+Step 3: j=l/ 2
+
+Step 4 :
+
+while(j> 0){ i
+f(s[k++]! =s[-- i]){
+
+print string is not palindrome
+}
+j- - ;
+
+Step 5 : print string is plaindrome

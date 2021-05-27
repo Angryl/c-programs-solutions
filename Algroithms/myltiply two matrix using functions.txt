@@ -1,0 +1,33 @@
+Algorithm :
+Step 1: start
+
+Step 2: enter the row 1 and col 1.
+
+Step 3: enter the elements of the matrix 1.
+
+Step 4: enter the row 2 and col 2.
+
+Step 5: enter the elements of the matrix 2.
+
+Step 6 : print matrix 1.
+
+Step 7 : print matrix 2.
+
+Step 8: 
+if(col1 == row2)
+
+Set a loop i up to row 1
+
+Set an inner loop j up to col1 Matrix3[i][j]=0
+
+Set another inner loop k up to col2
+
+Matrix3[i][j] + = Matrix1[i][k]*Matrix2[k][j].
+ 
+Else
+ 
+Print matrix 3.
+
+Print multiplication can’t be possible .
+ 
+Step 9 : stop
